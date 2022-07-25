@@ -1,2 +1,2 @@
 # python-data-analysis
-Repository for learning of data analysis with python and library Pandas.
+Repository for learning data analysis with python and Pandas library.
